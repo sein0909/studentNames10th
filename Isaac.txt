@@ -1,0 +1,4 @@
+Name: Sein
+Grade: 10
+Age: 15
+Favorite anime: 
